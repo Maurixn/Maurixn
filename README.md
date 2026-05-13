@@ -1,6 +1,5 @@
-- 👋 Hi, I'm Mauricio, this year I started to study Computer Engineering. 
-- 👀 I’m interested in AI and Mobile Development
-- 🌱 I’m currently learning how to create web pages
+- 👋 Hi, I'm Mauricio, this is mi second year studying Computer Engineering. 
+- 🌱 I’m currently learning how to create web pages.
 - 😄 My biggest passion is to learn everything I can, right now what I want is to be a programmer, I love it.
 
 💻 Tech Stack:
